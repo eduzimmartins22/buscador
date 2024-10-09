@@ -17,8 +17,11 @@ function App() {
       <main  className="main">
       <h2>CEP : 29181973</h2>
       <span>Rua bla bla bla</span>
+      <br></br>
       <span>Ponto de referência</span>
+      <br></br>
       <span>avenida Rosa</span>
+      <br></br>
       <span>Numer tal tal tal</span>
       </main>
     </div>
